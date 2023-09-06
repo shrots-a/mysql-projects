@@ -1,0 +1,8 @@
+CONCLUSION
+Civil Aviation Industry is among the fastest-growing industries in India and beyond. 
+And in local transit systems, Taxis have traditionally been incumbents and have shown sharp growth in consumer preference over public transport systems. 
+Our project is at the intersection of these two high-growth, highscale industries. 
+The Integration of the Airport Management System and Taxi Booking System aims to help find flights and taxis easily. 
+The project holds various details which help the passenger find a flight of their favored airline and price, along with the ability to find and pre-book taxis at their destination airport. 
+The underlying infrastructure is built and maintained using SQL and PL/SQL by carefully normalizing various tables to achieve an efficient search with minimal anomalies.
+The project functionalities include cursors, procedures, and triggers.
